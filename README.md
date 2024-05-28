@@ -1,6 +1,4 @@
 # Ecommerce-Site
- 
-Live Project:- https://niiraj-ecommerce-site.netlify.app/
 
 # [Live Site](https://niiraj-ecommerce-site.netlify.app/)
 
