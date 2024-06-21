@@ -1,4 +1,4 @@
-# Ecommerce-Site
+# Ecommerce-Store
 
 # [Live Site](https://niiraj-ecommerce-site.netlify.app/)
 
